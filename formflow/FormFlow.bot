@@ -1,0 +1,18 @@
+{
+    "name": "FormFlow",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "ad9849f0-2416-11e9-a285-bb0ecdb55c89",
+            "name": "http://localhost:3979/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\sanjeev\\Desktop\\ML learning\\MSBOT\\formflow\\formflow\\FormFlow.bot"
+}
